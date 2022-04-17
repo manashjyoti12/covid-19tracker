@@ -1,0 +1,115 @@
+body{
+    background-color: #1A1C27;
+    color: aliceblue;
+}
+.navbar{
+    background-color: #1A1C27;
+    
+}
+
+.nav-link{
+    color: #c0c0c1;
+}
+.first{
+    background-color: #1A1C27;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+.first p{
+    color: #c0c0c1;
+}
+
+.img1{
+    width: 380px;
+}
+
+.btn{
+    border-radius: 0.6rem;
+}
+
+.second{
+    background-color: #E4E5F1;
+    color: black;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+.second-content{
+    background-color: #fff;
+    border-radius: 1rem;    
+}
+
+.dd{
+    padding: 5%;
+}
+
+.fa-globe{
+    color: #DBEECD;
+}
+
+.fa-virus-covid{
+    color: #AAD7C3;
+}
+
+.fa-skull{
+    color: #EEBDBF;
+}
+
+.third{
+    border-radius: 1.2rem;
+    border: none;
+    width: 100px;
+}
+
+.fourth{
+    background-color: #F2F3F7;
+    color:black
+}
+
+.heading{
+    color:#554080;
+    font-weight: bolder;
+}
+
+
+.second-2{
+    background-color: #E4E5F1;
+    color: black;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+.table{
+    border-radius: 1rem;
+}
+
+.footer{
+    background-color: #1A1C27;
+    color:#E4E5F1;
+}
+
+.footer .content{
+    color: #c0c0c1;
+}
+
+.icon{
+    color:#C3158D;
+}
+
+a:link {
+    text-decoration: none;
+    color: #c0c0c1;
+}
+a:hover{
+    color: #C3158D;
+}
+
+
+@media only screen and (max-width: 425px) {
+.img1 {
+    height: 300px;
+    align-items: left;
+}
+
+
+}
